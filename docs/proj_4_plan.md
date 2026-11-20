@@ -42,8 +42,8 @@ Reminder\* Update at least twice per project; for each “Done” task, include 
 
 | ID | Task | Owner | Target/Due Date | Status (NS/IP/D) | Evidence Link / Pointer | Notes / Dependencies |
 | :---: | ----- | :---: | ----- | :---: | :---: | ----- |
-| 1 | Create repository \+ baseline README/run steps | Adam | November 20th |  |  |  |
-| 2 | Draft scope document in /docs |  |  |  |  |  |
+| 1 | Create repository \+ baseline README/run steps | Adam | November 20th | IP |  |  |
+| 2 | Draft scope document in /docs |  | November 29th |  |  |  |
 | 3 | Draft UML diagram in /docs | Adam | November 29th |  |  |  |
 | 4 | Implement core data structures and parsing | Adam | November 29th |  |  |  |
 | 5 | Define verification plan (tests \+ edge cases) | Mustafa |   |  |  |  |
